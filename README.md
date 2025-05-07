@@ -69,6 +69,30 @@ Edit
 ```bash
 cd server
 npm install
+
+
+
+
+## 🖼 Screenshots
+
+### 🔐 Login Page
+
+![task2](https://github.com/user-attachments/assets/6c6f5aed-43a9-42a3-8582-662316edfd4a)
+
+
+### 🏠 Dashboard
+
+![task1](https://github.com/user-attachments/assets/0f468d22-ee3d-4028-90aa-8fda64326251)
+
+
+
+### 🧩 Task Details
+
+![task3](https://github.com/user-attachments/assets/81346297-27b8-44f2-ad2c-96f6f1e1ec1a)
+
+![task4](https://github.com/user-attachments/assets/11c50501-c6be-4d05-8ecf-0865a7de1ed8)
+
+
 npm start
 #### 1. Environment Variables (`.env`)
 Create a `.env` file inside the `server/` directory:
