@@ -46,15 +46,26 @@ A modern, cloud-powered task management platform designed for efficient collabor
 
 ## ⚙️ Setup Instructions
 
-### 📦 Server Setup
+###  Client Setup
+
+npm install
+npm start
+
+###  Server Setup
+
+npm install
+npm start
+#### 1. Environment Variables (`.env`)
+Create a `.env` file inside the `server/` directory:
+
+
+
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=8800
 NODE_ENV=development
 
-pgsql
-Copy
-Edit
+
 
 #### 2. Set Up MongoDB (Atlas)
 - Visit: https://www.mongodb.com/cloud/atlas
@@ -92,9 +103,6 @@ npm install
 ![task4](https://github.com/user-attachments/assets/11c50501-c6be-4d05-8ecf-0865a7de1ed8)
 
 
-npm start
-#### 1. Environment Variables (`.env`)
-Create a `.env` file inside the `server/` directory:
 
 
 
