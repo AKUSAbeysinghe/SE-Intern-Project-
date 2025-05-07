@@ -70,8 +70,7 @@ Edit
 cd server
 npm install
 
-
-
+```
 
 ## 🖼 Screenshots
 
