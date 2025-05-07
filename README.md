@@ -1,4 +1,4 @@
-# 🧠 Cloud-Based Task Manager (MERN Stack)
+#  Cloud-Based Task Manager (MERN Stack)
 
 A modern, cloud-powered task management platform designed for efficient collaboration between teams. Built with the MERN stack, this system allows admins to manage users and tasks while giving users an intuitive interface for tracking their work.
 
@@ -73,14 +73,5 @@ npm start
 #### 1. Environment Variables (`.env`)
 Create a `.env` file inside the `server/` directory:
 
-🧪 Example Admin Credentials
-json
-Copy
-Edit
-{
-  "email": "admin@example.com",
-  "password": "yourPassword123",
-  "isAdmin": true
-}
 
 
