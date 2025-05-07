@@ -40,7 +40,7 @@ A modern, cloud-powered task management platform designed for efficient collabor
 - [Express.js](https://expressjs.com/)
 
 ### Database
-- [MongoDB]
+- [MongoDB],  [MongoDB (via Atlas)](https://www.mongodb.com/cloud/atlas)
 
 ---
 
@@ -73,6 +73,14 @@ npm start
 #### 1. Environment Variables (`.env`)
 Create a `.env` file inside the `server/` directory:
 
-
+🧪 Example Admin Credentials
+json
+Copy
+Edit
+{
+  "email": "admin@example.com",
+  "password": "yourPassword123",
+  "isAdmin": true
+}
 
 
